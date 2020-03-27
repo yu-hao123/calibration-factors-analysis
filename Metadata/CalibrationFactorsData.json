@@ -2,71 +2,71 @@
     {
         "Case Name": "NIV-001",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 21.871310498370264,
+            "RLD Spontaneous": 15.953540023200613,
+            "Prone Spontaneous": 17.904633626126273,
+            "LLD Spontaneous": 20.03645041275124,
+            "Supine Spontaneous - 002": 23.634719638684455
         }
     },
     {
         "Case Name": "NIV-002",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 15.144320327258008,
+            "RLD Spontaneous": 15.24296648724814,
+            "Prone Spontaneous": 18.01698442505041,
+            "LLD Spontaneous": 15.125282036032916,
+            "Supine Spontaneous - 002": 0
         }
     },
     {
         "Case Name": "NIV-003",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 8.115310535461184,
+            "RLD Spontaneous": 9.139031274258638,
+            "Prone Spontaneous": 9.66782329358608,
+            "LLD Spontaneous": 9.397465067268351,
+            "Supine Spontaneous - 002": 8.336774399567775
         }
     },
     {
         "Case Name": "NIV-004",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 15.701950598620417,
+            "RLD Spontaneous": 12.063959693359184,
+            "Prone Spontaneous": 12.10540669629042,
+            "LLD Spontaneous": 13.012186029154583,
+            "Supine Spontaneous - 002": 12.786085970623994
         }
     },
     {
         "Case Name": "NIV-005",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 20.727575984491356,
+            "RLD Spontaneous": 17.05407317388397,
+            "Prone Spontaneous": 18.343936958959407,
+            "LLD Spontaneous": 22.762906756386002,
+            "Supine Spontaneous - 002": 24.175780312991936
         }
     },
     {
         "Case Name": "NIV-006",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 17.346559560143884,
+            "RLD Spontaneous": 14.963676154346194,
+            "Prone Spontaneous": 16.36991830266837,
+            "LLD Spontaneous": 13.075373797615471,
+            "Supine Spontaneous - 002": 19.723031056186798
         }
     },
     {
         "Case Name": "NIV-007",
         "Calibration Factors": {
-            "Supine Spontaneous - 001": 20.412218405177867,
-            "RLD Spontaneous": 20.51260509462994,
-            "Prone Spontaneous": 18.675094167643476,
-            "LLD Spontaneous": 20.40311911028844,
-            "Supine Spontaneous - 002": 20.584184532794033
+            "Supine Spontaneous - 001": 13.005947145697178,
+            "RLD Spontaneous": 12.13757440938952,
+            "Prone Spontaneous": 13.30832159528775,
+            "LLD Spontaneous": 14.211883206202465,
+            "Supine Spontaneous - 002": 13.546791542781737
         }
     },
     {

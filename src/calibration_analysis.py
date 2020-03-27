@@ -5,29 +5,64 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from argparse import ArgumentParser
 
+try:
+    plt.style.use('scienza')
+except OSError:
+    print('Could not find scienza matplotlib style, using default')
 
-def save_calibration_factors(file_name, patient_positions, results_json):
+def normalize_data(df):
+    result = df.copy()
+    for column_name in result.columns[2:]:
+        result[column_name] /= result.iloc[:, 1]
+        result[column_name] *= 100
+    result.iloc[:, 1] = 100
+    return result
+
+def save_calibration_factors(file_name, possible_positions, results_json):
     calibration_data = []
-    default_patient_factors = {el : 0 for el in patient_positions}
-    default_patient_data = {
-            "Case Name" : "",
-            "Calibration Factors" : default_patient_factors
-    }
     for case in results_json:
-        patient_data = dict(default_patient_data)
+        patient_data = {
+                "Case Name" : "",
+                "Calibration Factors" : {}
+        }
         patient_data["Case Name"] = case["Case Name"]
+        patient_factors = {el : 0 for el in possible_positions}
         for position in case["Events"]:
-            if position["Type"] in patient_positions:
+            if position["Type"] in possible_positions:
                 p_factor = position["Calibration Factor"]
                 p_type = position["Type"]
-                patient_data["Calibration Factors"][p_type] = p_factor
+                patient_factors[p_type] = p_factor
+        patient_data["Calibration Factors"] = patient_factors
         calibration_data.append(patient_data)
 
     with open(file_name, "w") as o_handle:
         json.dump(calibration_data, o_handle, indent=4)
 
+def plot_calibration_factors(file_name, possible_positions):
+    with open(file_name, "r") as i_handle:
+        calibration_data = json.load(i_handle)
+    
+    df = pd.DataFrame(
+        {"Cases": case["Case Name"], **case["Calibration Factors"]}
+        for case in calibration_data
+    )
+    normalized_df = normalize_data(df)
+    print(normalized_df)
+
+    fig = plt.figure(figsize=(10,6))
+
+    n_rows = len(df.index)
+    cmap = plt.cm.nipy_spectral
+    cmap_list = [cmap(i) for i in range(cmap.N)]
+    pd.plotting.parallel_coordinates(
+            normalized_df, 
+            "Cases",
+            color=cmap_list[::int(cmap.N/n_rows)]
+            )
+    plt.show()
+
 def main(args):
-    patient_positions = [
+    possible_positions = [
         "Supine Spontaneous - 001",
         "RLD Spontaneous",
         "Prone Spontaneous",
@@ -41,10 +76,16 @@ def main(args):
             os.path.dirname(args.calibration_results),
             "CalibrationFactorsData.json"
     )
+    """
     save_calibration_factors(
             calibration_data_file, 
-            patient_positions, 
+            possible_positions, 
             results_json
+    )
+    """
+    plot_calibration_factors(
+            calibration_data_file,
+            possible_positions
     )
 
 
