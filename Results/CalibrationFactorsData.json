@@ -1,0 +1,362 @@
+[
+    {
+        "Case Name": "VNI005",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 5.1577486967002955,
+            "Supine CPAP4 - 001": 4.816742369765166,
+            "Supine CPAP6 - 001": 4.927700036727492,
+            "Supine CPAP8 - 001": 4.586798178869456,
+            "Supine Spontaneous - 002": 5.2199224164179405
+        }
+    },
+    {
+        "Case Name": "VNI006",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 5.597616266941866,
+            "Supine CPAP4 - 001": 6.141898528653757,
+            "Supine CPAP6 - 001": 6.020331548555433,
+            "Supine CPAP8 - 001": 6.189155304264917,
+            "Supine Spontaneous - 002": 6.748439221775442
+        }
+    },
+    {
+        "Case Name": "VNI007",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 7.20833601434167,
+            "Supine CPAP4 - 001": 7.543734990567818,
+            "Supine CPAP6 - 001": 7.428348795748939,
+            "Supine CPAP8 - 001": 6.998790735948303,
+            "Supine Spontaneous - 002": 8.200818967744956
+        }
+    },
+    {
+        "Case Name": "VNI008",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 19.2680710699713,
+            "Supine CPAP4 - 001": 17.415707381889135,
+            "Supine CPAP6 - 001": 14.952950342792038,
+            "Supine CPAP8 - 001": 16.466978347254106,
+            "Supine Spontaneous - 002": 21.712141662264923
+        }
+    },
+    {
+        "Case Name": "VNI009",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 10.772182210916927,
+            "Supine CPAP4 - 001": 10.337892838846049,
+            "Supine CPAP6 - 001": 9.172954449114304,
+            "Supine CPAP8 - 001": 10.547499382749367,
+            "Supine Spontaneous - 002": 10.445027217535763
+        }
+    },
+    {
+        "Case Name": "VNI010",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 5.8073529869086,
+            "Supine CPAP4 - 001": 6.461019264216251,
+            "Supine CPAP6 - 001": 6.078944910536786,
+            "Supine CPAP8 - 001": 6.331474940263886,
+            "Supine Spontaneous - 002": 5.8655948344173865
+        }
+    },
+    {
+        "Case Name": "VNI011",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 9.927364015664722,
+            "Supine CPAP4 - 001": 7.176700510453982,
+            "Supine CPAP6 - 001": 9.61812536844083,
+            "Supine CPAP8 - 001": 8.191303973720013,
+            "Supine Spontaneous - 002": 9.263121566031273
+        }
+    },
+    {
+        "Case Name": "VNI014",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 7.795291473412505,
+            "Supine CPAP4 - 001": 7.8571089711579845,
+            "Supine CPAP6 - 001": 8.202393945475599,
+            "Supine CPAP8 - 001": 8.458621417744883,
+            "Supine Spontaneous - 002": 8.576352955483145
+        }
+    },
+    {
+        "Case Name": "VNI016",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 11.778683848612829,
+            "Supine CPAP4 - 001": 13.282175816754693,
+            "Supine CPAP6 - 001": 13.963379052719814,
+            "Supine CPAP8 - 001": 14.24816282558079,
+            "Supine Spontaneous - 002": 13.675238897040613
+        }
+    },
+    {
+        "Case Name": "VNI017",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 14.507229633012095,
+            "Supine CPAP4 - 001": 18.508052097669136,
+            "Supine CPAP6 - 001": 16.53366451676964,
+            "Supine CPAP8 - 001": 17.491162654339252,
+            "Supine Spontaneous - 002": 16.145393522305547
+        }
+    },
+    {
+        "Case Name": "VNI018",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 11.227976262294034,
+            "Supine CPAP4 - 001": 6.636997877877125,
+            "Supine CPAP6 - 001": 9.798170391955187,
+            "Supine CPAP8 - 001": 9.94625979170766,
+            "Supine Spontaneous - 002": 11.738538196036385
+        }
+    },
+    {
+        "Case Name": "VNI019",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 14.241675395868196,
+            "Supine CPAP4 - 001": 18.022637274058685,
+            "Supine CPAP6 - 001": 17.168908039352214,
+            "Supine CPAP8 - 001": 16.738288425055725,
+            "Supine Spontaneous - 002": 15.091775704097731
+        }
+    },
+    {
+        "Case Name": "VNI020",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 8.259675623489256,
+            "Supine CPAP4 - 001": 8.232096899880057,
+            "Supine CPAP6 - 001": 8.656284791405403,
+            "Supine CPAP8 - 001": 8.720459104070155,
+            "Supine Spontaneous - 002": 8.5195111474435
+        }
+    },
+    {
+        "Case Name": "VNI021",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 29.381591767164366,
+            "Supine CPAP4 - 001": 27.85342628132408,
+            "Supine CPAP6 - 001": 28.300628405270032,
+            "Supine CPAP8 - 001": 27.510153033862707,
+            "Supine Spontaneous - 002": 29.903707352764776
+        }
+    },
+    {
+        "Case Name": "VNI022",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 7.103305143110774,
+            "Supine CPAP4 - 001": 7.254020098474624,
+            "Supine CPAP6 - 001": 7.187238780291465,
+            "Supine CPAP8 - 001": 6.087984962895477,
+            "Supine Spontaneous - 002": 7.122443101864802
+        }
+    },
+    {
+        "Case Name": "VNI023",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 4.256505728210457,
+            "Supine CPAP4 - 001": 3.500582689446547,
+            "Supine CPAP6 - 001": 4.429898939837295,
+            "Supine CPAP8 - 001": 3.5025364386259934,
+            "Supine Spontaneous - 002": 4.0974192255635415
+        }
+    },
+    {
+        "Case Name": "VNI024",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 5.708737986262761,
+            "Supine CPAP4 - 001": 6.0102488418047475,
+            "Supine CPAP6 - 001": 6.041436298429084,
+            "Supine CPAP8 - 001": 6.031261752616053,
+            "Supine Spontaneous - 002": 5.24986332946087
+        }
+    },
+    {
+        "Case Name": "VNI025",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 4.93021219157375,
+            "Supine CPAP4 - 001": 4.992809814191814,
+            "Supine CPAP6 - 001": 5.021686454943285,
+            "Supine CPAP8 - 001": 5.154368370500662,
+            "Supine Spontaneous - 002": 4.6936944046408
+        }
+    },
+    {
+        "Case Name": "VNI027",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 35.86669182344745,
+            "Supine CPAP4 - 001": 27.34870968483147,
+            "Supine CPAP6 - 001": 27.965241792017515,
+            "Supine CPAP8 - 001": 29.047814215534515,
+            "Supine Spontaneous - 002": 35.39004149996993
+        }
+    },
+    {
+        "Case Name": "VNI028",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 13.166130781685508,
+            "Supine CPAP4 - 001": 14.963462921719879,
+            "Supine CPAP6 - 001": 18.68916672932467,
+            "Supine CPAP8 - 001": 19.616689306650745,
+            "Supine Spontaneous - 002": 16.39821773920498
+        }
+    },
+    {
+        "Case Name": "VNI029",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 17.51915767642218,
+            "Supine CPAP4 - 001": 16.71711821925252,
+            "Supine CPAP6 - 001": 16.206275453137557,
+            "Supine CPAP8 - 001": 15.266434713101015,
+            "Supine Spontaneous - 002": 16.312517240983247
+        }
+    },
+    {
+        "Case Name": "VNI030",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 24.66604087774206,
+            "Supine CPAP4 - 001": 23.50192011205649,
+            "Supine CPAP6 - 001": 25.947557634419496,
+            "Supine CPAP8 - 001": 21.8649123347882,
+            "Supine Spontaneous - 002": 30.905390063431316
+        }
+    },
+    {
+        "Case Name": "VNI031",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 24.39128933115315,
+            "Supine CPAP4 - 001": 26.345621336414666,
+            "Supine CPAP6 - 001": 26.048313104470246,
+            "Supine CPAP8 - 001": 26.32944389840702,
+            "Supine Spontaneous - 002": 25.903356306345938
+        }
+    },
+    {
+        "Case Name": "VNI033",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 13.706283808865985,
+            "Supine CPAP4 - 001": 15.35420085092176,
+            "Supine CPAP6 - 001": 14.367006290061067,
+            "Supine CPAP8 - 001": 14.70111438649473,
+            "Supine Spontaneous - 002": 14.820354745285595
+        }
+    },
+    {
+        "Case Name": "VNI034",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 14.203759153252498,
+            "Supine CPAP4 - 001": 12.954834801532556,
+            "Supine CPAP6 - 001": 12.1836076207214,
+            "Supine CPAP8 - 001": 12.190719700138988,
+            "Supine Spontaneous - 002": 14.569464912149273
+        }
+    },
+    {
+        "Case Name": "VNI035",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 24.59163831946226,
+            "Supine CPAP4 - 001": 24.364515087254816,
+            "Supine CPAP6 - 001": 24.632822855388977,
+            "Supine CPAP8 - 001": 25.5699552022266,
+            "Supine Spontaneous - 002": 23.961330894312418
+        }
+    },
+    {
+        "Case Name": "VNI036",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 25.750980645695407,
+            "Supine CPAP4 - 001": 27.68083035551873,
+            "Supine CPAP6 - 001": 26.878057935013796,
+            "Supine CPAP8 - 001": 25.974641035572027,
+            "Supine Spontaneous - 002": 27.469567884242142
+        }
+    },
+    {
+        "Case Name": "VNI037",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 10.442500392356989,
+            "Supine CPAP4 - 001": 10.849938367591482,
+            "Supine CPAP6 - 001": 11.929636564967492,
+            "Supine CPAP8 - 001": 12.179119473065596,
+            "Supine Spontaneous - 002": 11.08346461049193
+        }
+    },
+    {
+        "Case Name": "VNI039",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 13.909397937403318,
+            "Supine CPAP4 - 001": 14.921069371788484,
+            "Supine CPAP6 - 001": 14.322422187405447,
+            "Supine CPAP8 - 001": 15.21521276280478,
+            "Supine Spontaneous - 002": 13.627339692274667
+        }
+    },
+    {
+        "Case Name": "VNI041",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 11.478575016186147,
+            "Supine CPAP4 - 001": 12.18566351702168,
+            "Supine CPAP6 - 001": 11.070748307965996,
+            "Supine CPAP8 - 001": 14.777228103747701,
+            "Supine Spontaneous - 002": 13.260388351335207
+        }
+    },
+    {
+        "Case Name": "VNI042",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 9.656867722600268,
+            "Supine CPAP4 - 001": 9.437049361384588,
+            "Supine CPAP6 - 001": 9.179434843848771,
+            "Supine CPAP8 - 001": 9.314644699878512,
+            "Supine Spontaneous - 002": 10.183850706656841
+        }
+    },
+    {
+        "Case Name": "VNI043",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 8.349948795067906,
+            "Supine CPAP4 - 001": 7.5412161680991225,
+            "Supine CPAP6 - 001": 7.832246150194976,
+            "Supine CPAP8 - 001": 7.887722005329884,
+            "Supine Spontaneous - 002": 8.383775857175857
+        }
+    },
+    {
+        "Case Name": "VNI044",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 6.870349306608824,
+            "Supine CPAP4 - 001": 6.1906130557315375,
+            "Supine CPAP6 - 001": 6.102468452033123,
+            "Supine CPAP8 - 001": 6.782240677331637,
+            "Supine Spontaneous - 002": 6.539179748199686
+        }
+    },
+    {
+        "Case Name": "VNI045",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 5.485299507150526,
+            "Supine CPAP4 - 001": 5.773094742930781,
+            "Supine CPAP6 - 001": 5.728565386269911,
+            "Supine CPAP8 - 001": 5.883193656712599,
+            "Supine Spontaneous - 002": 5.617522731496855
+        }
+    },
+    {
+        "Case Name": "VNI046",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 9.592442846906907,
+            "Supine CPAP4 - 001": 8.807291407782465,
+            "Supine CPAP6 - 001": 8.64804093026724,
+            "Supine CPAP8 - 001": 8.161834923305788,
+            "Supine Spontaneous - 002": 8.978500945500658
+        }
+    },
+    {
+        "Case Name": "VNI047",
+        "Calibration Factors": {
+            "Supine Spontaneous - 001": 7.979901628096711,
+            "Supine CPAP4 - 001": 6.952584866313002,
+            "Supine CPAP6 - 001": 7.005617651317629,
+            "Supine CPAP8 - 001": 7.355259118842346,
+            "Supine Spontaneous - 002": 7.24383070449801
+        }
+    }
+]
