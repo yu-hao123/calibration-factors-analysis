@@ -57,16 +57,22 @@ def plot_calibration_factors(file_name, possible_positions):
     pd.plotting.parallel_coordinates(
             normalized_df, 
             "Cases",
-            color=cmap_list[::int(cmap.N/n_rows)]
+            color=cmap_list[::int(cmap.N/n_rows)],
+            linewidth=0.75
             )
+    plt.title("Calibration Factors (SVP)")
+    plt.ylabel("Percentage (%)")
+    plt.ylim(-50, 150)
+    plt.legend(loc="lower left", ncol=4)
+    plt.fill_between(possible_positions, 90, 110, color="#b5e2ff")
     plt.show()
 
 def main(args):
     possible_positions = [
         "Supine Spontaneous - 001",
-        "RLD Spontaneous",
-        "Prone Spontaneous",
-        "LLD Spontaneous",
+        "Supine CPAP4 - 001",
+        "Supine CPAP6 - 001",
+        "Supine CPAP8 - 001",
         "Supine Spontaneous - 002"
     ]
     with open(args.calibration_results, "r") as i_handle:
@@ -95,4 +101,3 @@ if __name__ == "__main__":
         "calibration_results"
     )
     main(parser.parse_args())
-
